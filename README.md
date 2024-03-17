@@ -4,14 +4,14 @@ This is repository with examples of simple JSON read using intercative UI in Nod
 
 * Clone the repo with
 ```
-git clone git@github.com:deepa1237/readJsonNodeJs.git
+git clone https://github.com/deepa1237/ReadJsonFile.git
 ```
 
 # For HTML/CSS/JS
 
 Just navigate to the folder with your chosen example and open html file in the browser.
 
-# For React Examples
+# For Node Examples
 
 * Install npm packages
 ```
